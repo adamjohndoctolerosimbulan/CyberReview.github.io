@@ -1,0 +1,422 @@
+.cyberpunk2077-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.cyberpunk2077-cyberpunk-page {
+  width: 100%;
+  height: 3473px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(36, 12, 47, 1);
+}
+.cyberpunk2077-whole-page {
+  top: 0px;
+  left: 0px;
+  width: 1538px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.cyberpunk2077-frame68 {
+  width: 1538px;
+  height: 783px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cyberpunk2077-cyberpunk-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 1538px;
+  height: 876px;
+  position: absolute;
+}
+.cyberpunk2077-navigation-bar {
+  gap: 10px;
+  top: 16px;
+  left: 0px;
+  width: 1538px;
+  display: flex;
+  padding: 18px 85px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.cyberpunk2077-n-vbar {
+  gap: 10px;
+  display: flex;
+  padding: 0 16px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.cyberpunk2077-frame66 {
+  gap: 414px;
+  display: flex;
+  padding: 0 52px;
+  align-items: center;
+}
+.cyberpunk2077-navlink {
+  display: contents;
+}
+.cyberpunk2077-logo3 {
+  width: 350px;
+  height: 61px;
+  text-decoration: none;
+}
+.cyberpunk2077-frame59 {
+  gap: 47px;
+  display: flex;
+  align-items: flex-start;
+}
+.cyberpunk2077-text {
+  color: rgb(0, 0, 0);
+  width: 97px;
+  height: auto;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-text01 {
+  color: rgba(0, 0, 0, 1);
+  width: 97px;
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-text03 {
+  color: rgba(0, 0, 0, 1);
+  width: 97px;
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-content-div {
+  width: 1538px;
+  height: 2349px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cyberpunk2077-cyber-content {
+  top: -82px;
+  left: 69px;
+  width: 1400px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.cyberpunk2077-cyber-mini-image1 {
+  gap: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.cyberpunk2077-image12 {
+  width: 776px;
+  height: 354px;
+}
+.cyberpunk2077-text05 {
+  color: rgb(255, 255, 255);
+  width: 776px;
+  height: auto;
+  font-size: 23px;
+  text-align: justify;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-text06 {
+  font-weight: 700;
+}
+.cyberpunk2077-text07 {
+  font-style: normal;
+}
+.cyberpunk2077-cyber-mini-image2 {
+  gap: 10px;
+  width: 185px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cyberpunk2077-image10 {
+  width: 660px;
+  height: 570px;
+}
+.cyberpunk2077-character-f11 {
+  width: 439px;
+  height: 547px;
+}
+.cyberpunk2077-trailer {
+  gap: 54px;
+  top: 649px;
+  left: 69px;
+  width: 1400px;
+  height: 832px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.cyberpunk2077-text08 {
+  color: rgba(255, 255, 255, 1);
+  width: 267px;
+  height: auto;
+  font-size: 94px;
+  font-style: italic;
+  text-align: left;
+  font-family: Vortax;
+  font-weight: 400;
+  line-height: 90.89999198913574%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-code-embed {
+  height: 674px;
+}
+.cyberpunk2077-reviews {
+  gap: 40px;
+  left: 69px;
+  width: 1400px;
+  bottom: 151px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.cyberpunk2077-text10 {
+  color: rgba(255, 255, 255, 1);
+  width: 494px;
+  height: auto;
+  font-size: 94px;
+  font-style: italic;
+  text-align: left;
+  font-family: Vortax;
+  font-weight: 400;
+  line-height: 90.89999198913574%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-reviews-div {
+  gap: 25px;
+  width: 1400px;
+  display: flex;
+  padding: 43px 41px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 38px;
+  background-color: rgba(47, 47, 47, 1);
+}
+.cyberpunk2077-image45 {
+  width: 342px;
+  height: 359px;
+  border-radius: 30px;
+}
+.cyberpunk2077-title-review {
+  gap: 24px;
+  display: flex;
+  padding: 0 16px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.cyberpunk2077-text12 {
+  color: rgb(255, 255, 255);
+  width: 493px;
+  height: auto;
+  font-size: 52px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.9%;
+  font-stretch: normal;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+.cyberpunk2077-text13 {
+  color: rgb(255, 255, 255);
+  width: 411px;
+  height: auto;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: justify;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 122.5%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-text16 {
+  color: rgb(255, 255, 255);
+  width: 411px;
+  height: auto;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 122.5%;
+  font-stretch: normal;
+  padding-bottom: 70px;
+  text-decoration: none;
+}
+.cyberpunk2077-text17 {
+  font-weight: 700;
+}
+.cyberpunk2077-ratings {
+  gap: 30px;
+  display: flex;
+  padding: 0 39px;
+  align-items: flex-start;
+  margin-right: 50px;
+  flex-direction: column;
+  justify-content: center;
+}
+.cyberpunk2077-text19 {
+  color: rgb(255, 255, 255);
+  width: 119px;
+  height: auto;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.9%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-text20 {
+  font-weight: 700;
+}
+.cyberpunk2077-text21 {
+  font-style: normal;
+  font-weight: 400;
+}
+.cyberpunk2077-text23 {
+  color: rgb(255, 255, 255);
+  width: 154px;
+  height: auto;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.9%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-text24 {
+  font-weight: 700;
+}
+.cyberpunk2077-text25 {
+  font-style: normal;
+  font-weight: 400;
+}
+.cyberpunk2077-text27 {
+  color: rgb(255, 255, 255);
+  width: 240px;
+  height: auto;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.9%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-text28 {
+  font-weight: 700;
+}
+.cyberpunk2077-text29 {
+  font-style: normal;
+  font-weight: 400;
+}
+.cyberpunk2077-footer {
+  width: 100%;
+  height: 341px;
+  display: flex;
+  padding: 9px 409px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(10, 1, 15, 1);
+}
+.cyberpunk2077-frame69 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+  padding-top: 60px;
+  padding-left: 26px 0 0;
+  padding-right: 26px 0 0;
+  flex-direction: column;
+  padding-bottom: 26px 0 0;
+  justify-content: flex-end;
+}
+.cyberpunk2077-logo2 {
+  width: 350px;
+  height: 62px;
+}
+.cyberpunk2077-text30 {
+  color: rgba(255, 255, 255, 1);
+  width: 559px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cyberpunk2077-socials {
+  gap: 22px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 10px;
+}
+.cyberpunk2077-brandsfacebook {
+  width: 31px;
+  height: 31px;
+}
+.cyberpunk2077-brandssocialmedia {
+  width: 31px;
+  height: 31px;
+}
+.cyberpunk2077-brandstwitter {
+  width: 31px;
+  height: 31px;
+}
+.cyberpunk2077-brandsyoutube {
+  width: 31px;
+  height: 31px;
+}

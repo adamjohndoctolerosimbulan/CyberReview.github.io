@@ -1,0 +1,468 @@
+.valorant-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.valorant-valorant-page {
+  width: 100%;
+  height: 3473px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(13, 29, 45, 1);
+}
+
+.valorant-whole-page {
+  top: 0px;
+  left: 0px;
+  width: 1538px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.valorant-frame68 {
+  width: 1538px;
+  height: 783px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.valorant-val-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 1538px;
+  height: 880px;
+  position: absolute;
+}
+
+.valorant-navigation-bar {
+  gap: 10px;
+  top: 16px;
+  left: 0px;
+  width: 1538px;
+  display: flex;
+  padding: 18px 85px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+
+.valorant-n-vbar {
+  gap: 10px;
+  display: flex;
+  padding: 0 16px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.valorant-frame66 {
+  gap: 414px;
+  display: flex;
+  padding: 0 52px;
+  align-items: center;
+}
+
+.valorant-navlink {
+  display: contents;
+}
+
+.valorant-logo3 {
+  width: 350px;
+  height: 61px;
+  text-decoration: none;
+}
+
+.valorant-frame59 {
+  gap: 47px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.valorant-text {
+  color: rgba(255, 255, 255, 1);
+  width: 97px;
+  height: auto;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text02 {
+  color: rgba(255, 255, 255, 1);
+  width: 97px;
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text04 {
+  color: rgba(255, 255, 255, 1);
+  width: 97px;
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-content-div {
+  width: 1538px;
+  height: 2349px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.valorant-trailer {
+  gap: 54px;
+  top: 649px;
+  left: 69px;
+  width: 1400px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.valorant-text06 {
+  color: rgba(255, 255, 255, 1);
+  width: 267px;
+  height: auto;
+  font-size: 94px;
+  font-style: italic;
+  text-align: left;
+  font-family: Vortax;
+  font-weight: 400;
+  line-height: 90.89999198913574%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-reviews {
+  gap: 40px;
+  left: 69px;
+  width: 1400px;
+  bottom: 211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.valorant-text08 {
+  color: rgba(255, 255, 255, 1);
+  width: 494px;
+  height: auto;
+  font-size: 94px;
+  font-style: italic;
+  text-align: left;
+  font-family: Vortax;
+  font-weight: 400;
+  line-height: 90.89999198913574%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-reviews-div {
+  gap: 25px;
+  width: 1400px;
+  display: flex;
+  padding: 43px 41px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 38px;
+  background-color: rgba(47, 47, 47, 1);
+}
+
+.valorant-image45 {
+  width: 342px;
+  height: 359px;
+  border-radius: 30px;
+}
+
+.valorant-title-review {
+  gap: 24px;
+  width: 524.75px;
+  height: 350.25px;
+  display: flex;
+  padding: 0 16px;
+  position: relative;
+  align-items: flex-start;
+}
+
+.valorant-text10 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 493px;
+  height: auto;
+  position: absolute;
+  font-size: 52px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.89999198913574%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text12 {
+  top: 113.5px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 434px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 122.50000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text14 {
+  top: 250.5px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 175px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 122.50000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-line1 {
+  width: 219px;
+  height: 1px;
+}
+
+.valorant-ratings {
+  gap: 30px;
+  display: flex;
+  padding: 0 39px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valorant-text16 {
+  color: rgb(255, 255, 255);
+  width: 206px;
+  height: auto;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.9%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text18 {
+  font-weight: 400;
+}
+
+.valorant-text20 {
+  color: rgb(255, 255, 255);
+  width: 251px;
+  height: auto;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.9%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text22 {
+  font-style: normal;
+  font-weight: 400;
+}
+
+.valorant-text24 {
+  color: rgb(255, 255, 255);
+  width: 365px;
+  height: auto;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 90.9%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text26 {
+  font-style: normal;
+  font-weight: 400;
+}
+
+.valorant-val-content {
+  gap: -227px;
+  top: -82px;
+  left: 57px;
+  width: 1412px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.valorant-frame72 {
+  gap: -52px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.valorant-container1 {
+  flex: 0 0 auto;
+  width: 929px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.valorant-container2 {
+  flex: 0 0 auto;
+  width: 929px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.valorant-image12 {
+  width: 929px;
+  height: 470px;
+}
+
+.valorant-text28 {
+  color: rgb(255, 255, 255);
+  width: 929px;
+  height: auto;
+  font-size: 23px;
+  margin-top: 10px;
+  text-align: justify;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-text29 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.valorant-character-f21 {
+  width: 535px;
+  height: 708px;
+}
+
+.valorant-footer {
+  width: 1538px;
+  height: 341px;
+  display: flex;
+  padding: 9px 409px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(10, 1, 15, 1);
+}
+
+.valorant-frame69 {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+  padding-top: 60px;
+  padding-left: 26px 0 0;
+  padding-right: 26px 0 0;
+  flex-direction: column;
+  padding-bottom: 26px 0 0;
+  justify-content: flex-end;
+}
+
+.valorant-logo2 {
+  width: 350px;
+  height: 62px;
+}
+
+.valorant-text32 {
+  color: rgba(255, 255, 255, 1);
+  width: 559px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.valorant-socials {
+  gap: 22px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 10px;
+}
+
+.valorant-brandsfacebook {
+  width: 31px;
+  height: 31px;
+}
+
+.valorant-brandssocialmedia {
+  width: 31px;
+  height: 31px;
+}
+
+.valorant-brandstwitter {
+  width: 31px;
+  height: 31px;
+}
+
+.valorant-brandsyoutube {
+  width: 31px;
+  height: 31px;
+}
